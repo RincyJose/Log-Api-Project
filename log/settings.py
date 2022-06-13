@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pho(@$sci3zdk_!6x_$#-!o)0&7jr*@g^=47(c6rthg*22f34h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.29.225']
+ALLOWED_HOSTS = ['dam-monitor-api.herokuapp.com']
 
 
 # Application definition
